@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mcef010001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{41, 45}, {39, 19}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 19}}</string>
+			<key>sourceSize</key>
+			<string>{39, 19}</string>
+		</dict>
+		<key>mcef010002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{41, 66}, {39, 19}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 19}}</string>
+			<key>sourceSize</key>
+			<string>{39, 19}</string>
+		</dict>
+		<key>mcef010003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{85, 1}, {40, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 20}}</string>
+			<key>sourceSize</key>
+			<string>{40, 20}</string>
+		</dict>
+		<key>mcef010004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{83, 24}, {40, 19}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 19}}</string>
+			<key>sourceSize</key>
+			<string>{40, 19}</string>
+		</dict>
+		<key>mcef010005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{43, 1}, {41, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 20}}</string>
+			<key>sourceSize</key>
+			<string>{41, 20}</string>
+		</dict>
+		<key>mcef010006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{81, 45}, {39, 19}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 19}}</string>
+			<key>sourceSize</key>
+			<string>{39, 19}</string>
+		</dict>
+		<key>mcef020001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 87}, {39, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 20}}</string>
+			<key>sourceSize</key>
+			<string>{39, 20}</string>
+		</dict>
+		<key>mcef020002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 66}, {39, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 20}}</string>
+			<key>sourceSize</key>
+			<string>{39, 20}</string>
+		</dict>
+		<key>mcef020003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 24}, {40, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 20}}</string>
+			<key>sourceSize</key>
+			<string>{40, 20}</string>
+		</dict>
+		<key>mcef020004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 24}, {40, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 20}}</string>
+			<key>sourceSize</key>
+			<string>{40, 20}</string>
+		</dict>
+		<key>mcef020005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {41, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 22}}</string>
+			<key>sourceSize</key>
+			<string>{41, 22}</string>
+		</dict>
+		<key>mcef020006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 45}, {39, 20}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 20}}</string>
+			<key>sourceSize</key>
+			<string>{40, 20}</string>
+		</dict>
+		<key>mcef030001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{81, 87}, {36, 14}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 14}}</string>
+			<key>sourceSize</key>
+			<string>{36, 14}</string>
+		</dict>
+		<key>mcef030002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{38, 108}, {36, 13}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 13}}</string>
+			<key>sourceSize</key>
+			<string>{36, 13}</string>
+		</dict>
+		<key>mcef030003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{41, 87}, {39, 12}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 12}}</string>
+			<key>sourceSize</key>
+			<string>{39, 12}</string>
+		</dict>
+		<key>mcef030004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{81, 66}, {39, 12}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {39, 12}}</string>
+			<key>sourceSize</key>
+			<string>{40, 12}</string>
+		</dict>
+		<key>mcef030005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{75, 108}, {36, 14}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 14}}</string>
+			<key>sourceSize</key>
+			<string>{36, 14}</string>
+		</dict>
+		<key>mcef030006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 108}, {36, 14}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 14}}</string>
+			<key>sourceSize</key>
+			<string>{36, 14}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{128, 256}</string>
+	</dict>
+</dict>
+</plist>

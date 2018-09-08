@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>stonebu0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{35, 76}, {33, 71}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {33, 71}}</string>
+			<key>sourceSize</key>
+			<string>{33, 71}</string>
+		</dict>
+		<key>stonebu0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{427, 1}, {37, 71}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 71}}</string>
+			<key>sourceSize</key>
+			<string>{37, 71}</string>
+		</dict>
+		<key>stonebu0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{388, 1}, {38, 71}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 71}}</string>
+			<key>sourceSize</key>
+			<string>{38, 71}</string>
+		</dict>
+		<key>stonebu0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{465, 1}, {36, 71}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 71}}</string>
+			<key>sourceSize</key>
+			<string>{36, 71}</string>
+		</dict>
+		<key>stonebu0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 76}, {33, 67}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {33, 67}}</string>
+			<key>sourceSize</key>
+			<string>{33, 67}</string>
+		</dict>
+		<key>stoneeb0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {78, 74}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 74}}</string>
+			<key>sourceSize</key>
+			<string>{78, 74}</string>
+		</dict>
+		<key>stoneeb0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{80, 1}, {70, 71}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 71}}</string>
+			<key>sourceSize</key>
+			<string>{70, 71}</string>
+		</dict>
+		<key>stoneeb0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 1}, {69, 72}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 72}}</string>
+			<key>sourceSize</key>
+			<string>{69, 72}</string>
+		</dict>
+		<key>stoneeb0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 1}, {60, 56}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 56}}</string>
+			<key>sourceSize</key>
+			<string>{60, 56}</string>
+		</dict>
+		<key>stoneeb0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{282, 1}, {58, 26}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {58, 26}}</string>
+			<key>sourceSize</key>
+			<string>{58, 26}</string>
+		</dict>
+		<key>stoneeb0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{341, 1}, {46, 7}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 7}}</string>
+			<key>sourceSize</key>
+			<string>{46, 7}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

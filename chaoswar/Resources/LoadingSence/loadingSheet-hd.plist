@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>10001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {248, 74}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {248, 74}}</string>
+			<key>sourceSize</key>
+			<string>{248, 75}</string>
+		</dict>
+		<key>10002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 76}, {248, 74}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {248, 74}}</string>
+			<key>sourceSize</key>
+			<string>{248, 75}</string>
+		</dict>
+		<key>10003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 151}, {248, 74}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {248, 74}}</string>
+			<key>sourceSize</key>
+			<string>{248, 75}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 512}</string>
+	</dict>
+</dict>
+</plist>

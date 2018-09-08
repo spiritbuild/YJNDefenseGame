@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>firebu0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 119}, {26, 36}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 36}}</string>
+			<key>sourceSize</key>
+			<string>{26, 36}</string>
+		</dict>
+		<key>firebu0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{154, 81}, {29, 36}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 36}}</string>
+			<key>sourceSize</key>
+			<string>{29, 36}</string>
+		</dict>
+		<key>firebu0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 81}, {26, 36}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 36}}</string>
+			<key>sourceSize</key>
+			<string>{26, 36}</string>
+		</dict>
+		<key>firebu0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 81}, {26, 34}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 34}}</string>
+			<key>sourceSize</key>
+			<string>{26, 34}</string>
+		</dict>
+		<key>firebu0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{28, 119}, {25, 35}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 35}}</string>
+			<key>sourceSize</key>
+			<string>{25, 35}</string>
+		</dict>
+		<key>fireeb0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 43}, {39, 37}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 37}}</string>
+			<key>sourceSize</key>
+			<string>{39, 37}</string>
+		</dict>
+		<key>fireeb0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 81}, {37, 36}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 36}}</string>
+			<key>sourceSize</key>
+			<string>{37, 36}</string>
+		</dict>
+		<key>fireeb0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 81}, {36, 37}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 37}}</string>
+			<key>sourceSize</key>
+			<string>{36, 37}</string>
+		</dict>
+		<key>fireeb0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 81}, {38, 37}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 37}}</string>
+			<key>sourceSize</key>
+			<string>{38, 37}</string>
+		</dict>
+		<key>fireeb0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 81}, {38, 37}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 37}}</string>
+			<key>sourceSize</key>
+			<string>{38, 37}</string>
+		</dict>
+		<key>fireeb0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{54, 119}, {23, 8}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 8}}</string>
+			<key>sourceSize</key>
+			<string>{23, 8}</string>
+		</dict>
+		<key>fireef0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 22}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 22}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{62, 22}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 22}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 43}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{62, 43}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 1}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 43}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 1}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>fireef0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{62, 1}, {60, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 20}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+	</dict>
+</dict>
+</plist>

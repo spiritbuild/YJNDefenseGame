@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>thunderbu0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {36, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 82}}</string>
+			<key>sourceSize</key>
+			<string>{36, 82}</string>
+		</dict>
+		<key>thunderbu0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{38, 1}, {32, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 82}}</string>
+			<key>sourceSize</key>
+			<string>{32, 82}</string>
+		</dict>
+		<key>thunderbu0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{129, 1}, {28, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 82}}</string>
+			<key>sourceSize</key>
+			<string>{28, 82}</string>
+		</dict>
+		<key>thunderbu0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 1}, {28, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 82}}</string>
+			<key>sourceSize</key>
+			<string>{28, 82}</string>
+		</dict>
+		<key>thunderbu0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 1}, {28, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 82}}</string>
+			<key>sourceSize</key>
+			<string>{28, 82}</string>
+		</dict>
+		<key>thunderbu0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{158, 1}, {27, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 82}}</string>
+			<key>sourceSize</key>
+			<string>{27, 82}</string>
+		</dict>
+		<key>thunderbu0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{186, 1}, {25, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 82}}</string>
+			<key>sourceSize</key>
+			<string>{25, 82}</string>
+		</dict>
+		<key>thunderbu0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{212, 1}, {25, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 82}}</string>
+			<key>sourceSize</key>
+			<string>{25, 82}</string>
+		</dict>
+		<key>thunderbu0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{238, 1}, {18, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 82}}</string>
+			<key>sourceSize</key>
+			<string>{18, 82}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 128}</string>
+	</dict>
+</dict>
+</plist>

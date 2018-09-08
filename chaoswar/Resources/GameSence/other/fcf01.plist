@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fcf01at0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{146, 1}, {21, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 22}}</string>
+			<key>sourceSize</key>
+			<string>{21, 22}</string>
+		</dict>
+		<key>fcf01at0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168, 1}, {21, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 23}}</string>
+			<key>sourceSize</key>
+			<string>{21, 23}</string>
+		</dict>
+		<key>fcf01at0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {25, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 22}}</string>
+			<key>sourceSize</key>
+			<string>{25, 22}</string>
+		</dict>
+		<key>fcf01at0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{27, 1}, {25, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 22}}</string>
+			<key>sourceSize</key>
+			<string>{25, 22}</string>
+		</dict>
+		<key>fcf01dd0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{231, 1}, {18, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 20}}</string>
+			<key>sourceSize</key>
+			<string>{18, 20}</string>
+		</dict>
+		<key>fcf01dd0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 1}, {19, 21}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 21}}</string>
+			<key>sourceSize</key>
+			<string>{19, 21}</string>
+		</dict>
+		<key>fcf01dd0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{190, 1}, {20, 19}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 19}}</string>
+			<key>sourceSize</key>
+			<string>{20, 19}</string>
+		</dict>
+		<key>fcf01dd0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{53, 1}, {23, 14}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 14}}</string>
+			<key>sourceSize</key>
+			<string>{23, 14}</string>
+		</dict>
+		<key>fcf01dd0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{100, 1}, {22, 10}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 10}}</string>
+			<key>sourceSize</key>
+			<string>{22, 10}</string>
+		</dict>
+		<key>fcf01dd0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 1}, {22, 10}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 10}}</string>
+			<key>sourceSize</key>
+			<string>{22, 10}</string>
+		</dict>
+		<key>fcf01dd0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 1}, {22, 12}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 12}}</string>
+			<key>sourceSize</key>
+			<string>{22, 12}</string>
+		</dict>
+		<key>fcf01mv0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 25}, {17, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 22}}</string>
+			<key>sourceSize</key>
+			<string>{17, 22}</string>
+		</dict>
+		<key>fcf01mv0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{55, 25}, {17, 22}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 22}}</string>
+			<key>sourceSize</key>
+			<string>{17, 22}</string>
+		</dict>
+		<key>fcf01mv0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 25}, {17, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 23}}</string>
+			<key>sourceSize</key>
+			<string>{17, 23}</string>
+		</dict>
+		<key>fcf01mv0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 25}, {17, 24}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 24}}</string>
+			<key>sourceSize</key>
+			<string>{17, 24}</string>
+		</dict>
+		<key>fcf01mv0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{37, 25}, {17, 23}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 23}}</string>
+			<key>sourceSize</key>
+			<string>{17, 23}</string>
+		</dict>
+		<key>fcf01mv0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{19, 25}, {17, 20}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 20}}</string>
+			<key>sourceSize</key>
+			<string>{17, 20}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 64}</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>h10001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+		<key>h10002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{58, 109}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+		<key>h10003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{58, 163}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+		<key>h10004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 55}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+		<key>h10005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{58, 55}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+		<key>h10006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{58, 1}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+		<key>h10007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 109}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+		<key>h10008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 163}, {56, 53}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {56, 53}}</string>
+			<key>sourceSize</key>
+			<string>{56, 54}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{128, 256}</string>
+	</dict>
+</dict>
+</plist>

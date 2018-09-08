@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tt03a0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 97}, {61, 48}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 48}}</string>
+			<key>sourceSize</key>
+			<string>{61, 48}</string>
+		</dict>
+		<key>tt03a0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 1}, {61, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 45}}</string>
+			<key>sourceSize</key>
+			<string>{61, 45}</string>
+		</dict>
+		<key>tt03a0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {61, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 46}}</string>
+			<key>sourceSize</key>
+			<string>{61, 46}</string>
+		</dict>
+		<key>tt03a0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 48}, {61, 47}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 47}}</string>
+			<key>sourceSize</key>
+			<string>{61, 47}</string>
+		</dict>
+		<key>tt03a0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 148}, {61, 49}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 49}}</string>
+			<key>sourceSize</key>
+			<string>{61, 49}</string>
+		</dict>
+		<key>tt03a0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 97}, {61, 50}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 50}}</string>
+			<key>sourceSize</key>
+			<string>{61, 50}</string>
+		</dict>
+		<key>tt03a0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 148}, {61, 51}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 51}}</string>
+			<key>sourceSize</key>
+			<string>{61, 51}</string>
+		</dict>
+		<key>tt03b0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 48}, {61, 48}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 48}}</string>
+			<key>sourceSize</key>
+			<string>{61, 48}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{128, 256}</string>
+	</dict>
+</dict>
+</plist>

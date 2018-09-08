@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bs02mvc0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 935}, {196, 231}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 231}}</string>
+			<key>sourceSize</key>
+			<string>{196, 231}</string>
+		</dict>
+		<key>bs02mvc0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1028, 702}, {196, 229}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 229}}</string>
+			<key>sourceSize</key>
+			<string>{196, 229}</string>
+		</dict>
+		<key>bs02mvc0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1816, 702}, {196, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 227}}</string>
+			<key>sourceSize</key>
+			<string>{196, 227}</string>
+		</dict>
+		<key>bs02mvc0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{395, 935}, {196, 226}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 226}}</string>
+			<key>sourceSize</key>
+			<string>{196, 226}</string>
+		</dict>
+		<key>bs02mvc0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1225, 702}, {196, 224}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 224}}</string>
+			<key>sourceSize</key>
+			<string>{196, 224}</string>
+		</dict>
+		<key>bs02mvc0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{414, 702}, {204, 223}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 223}}</string>
+			<key>sourceSize</key>
+			<string>{204, 223}</string>
+		</dict>
+		<key>bs02mvc0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{853, 467}, {209, 224}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 224}}</string>
+			<key>sourceSize</key>
+			<string>{209, 224}</string>
+		</dict>
+		<key>bs02mvc0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1329, 233}, {216, 225}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {216, 225}}</string>
+			<key>sourceSize</key>
+			<string>{216, 225}</string>
+		</dict>
+		<key>bs02mvc0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{225, 233}, {222, 226}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {222, 226}}</string>
+			<key>sourceSize</key>
+			<string>{222, 226}</string>
+		</dict>
+		<key>bs02mvc0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{931, 1}, {227, 228}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {227, 228}}</string>
+			<key>sourceSize</key>
+			<string>{227, 228}</string>
+		</dict>
+		<key>bs02mvc0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {235, 229}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {235, 229}}</string>
+			<key>sourceSize</key>
+			<string>{235, 229}</string>
+		</dict>
+		<key>bs02mvc0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1159, 1}, {227, 228}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {227, 228}}</string>
+			<key>sourceSize</key>
+			<string>{227, 228}</string>
+		</dict>
+		<key>bs02mvc0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{448, 233}, {222, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {222, 227}}</string>
+			<key>sourceSize</key>
+			<string>{222, 227}</string>
+		</dict>
+		<key>bs02mvc0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1112, 233}, {216, 225}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {216, 225}}</string>
+			<key>sourceSize</key>
+			<string>{216, 225}</string>
+		</dict>
+		<key>bs02mvc0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1483, 467}, {209, 224}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 224}}</string>
+			<key>sourceSize</key>
+			<string>{209, 224}</string>
+		</dict>
+		<key>bs02mvc0016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{619, 702}, {204, 223}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 223}}</string>
+			<key>sourceSize</key>
+			<string>{204, 223}</string>
+		</dict>
+		<key>bs02mvc0017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{592, 935}, {196, 224}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 224}}</string>
+			<key>sourceSize</key>
+			<string>{196, 224}</string>
+		</dict>
+		<key>bs02mvc0018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1422, 702}, {196, 226}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 226}}</string>
+			<key>sourceSize</key>
+			<string>{196, 226}</string>
+		</dict>
+		<key>bs02mvc0019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1619, 702}, {196, 227}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 227}}</string>
+			<key>sourceSize</key>
+			<string>{196, 227}</string>
+		</dict>
+		<key>bs02mvc0020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{198, 935}, {196, 229}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 229}}</string>
+			<key>sourceSize</key>
+			<string>{196, 229}</string>
+		</dict>
+		<key>bs02mvd0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{824, 702}, {203, 230}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {203, 230}}</string>
+			<key>sourceSize</key>
+			<string>{203, 230}</string>
+		</dict>
+		<key>bs02mvd0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209, 702}, {204, 231}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 231}}</string>
+			<key>sourceSize</key>
+			<string>{204, 231}</string>
+		</dict>
+		<key>bs02mvd0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1693, 467}, {207, 232}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {207, 232}}</string>
+			<key>sourceSize</key>
+			<string>{207, 232}</string>
+		</dict>
+		<key>bs02mvd0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1273, 467}, {209, 232}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 232}}</string>
+			<key>sourceSize</key>
+			<string>{209, 232}</string>
+		</dict>
+		<key>bs02mvd0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{429, 467}, {211, 233}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {211, 233}}</string>
+			<key>sourceSize</key>
+			<string>{211, 233}</string>
+		</dict>
+		<key>bs02mvd0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 467}, {213, 234}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {213, 234}}</string>
+			<key>sourceSize</key>
+			<string>{213, 234}</string>
+		</dict>
+		<key>bs02mvd0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1763, 233}, {216, 233}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {216, 233}}</string>
+			<key>sourceSize</key>
+			<string>{216, 233}</string>
+		</dict>
+		<key>bs02mvd0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{892, 233}, {219, 232}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {219, 232}}</string>
+			<key>sourceSize</key>
+			<string>{219, 232}</string>
+		</dict>
+		<key>bs02mvd0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 233}, {223, 232}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {223, 232}}</string>
+			<key>sourceSize</key>
+			<string>{223, 232}</string>
+		</dict>
+		<key>bs02mvd0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1387, 1}, {225, 231}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {225, 231}}</string>
+			<key>sourceSize</key>
+			<string>{225, 231}</string>
+		</dict>
+		<key>bs02mvd0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{701, 1}, {229, 230}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {229, 230}}</string>
+			<key>sourceSize</key>
+			<string>{229, 230}</string>
+		</dict>
+		<key>bs02mvd0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{237, 1}, {233, 229}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {233, 229}}</string>
+			<key>sourceSize</key>
+			<string>{233, 229}</string>
+		</dict>
+		<key>bs02mvd0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{471, 1}, {229, 230}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {229, 230}}</string>
+			<key>sourceSize</key>
+			<string>{229, 230}</string>
+		</dict>
+		<key>bs02mvd0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1613, 1}, {225, 231}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {225, 231}}</string>
+			<key>sourceSize</key>
+			<string>{225, 231}</string>
+		</dict>
+		<key>bs02mvd0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{671, 233}, {220, 232}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {220, 232}}</string>
+			<key>sourceSize</key>
+			<string>{220, 232}</string>
+		</dict>
+		<key>bs02mvd0016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1546, 233}, {216, 233}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {216, 233}}</string>
+			<key>sourceSize</key>
+			<string>{216, 233}</string>
+		</dict>
+		<key>bs02mvd0017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 467}, {213, 234}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {213, 234}}</string>
+			<key>sourceSize</key>
+			<string>{213, 234}</string>
+		</dict>
+		<key>bs02mvd0018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{641, 467}, {211, 233}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {211, 233}}</string>
+			<key>sourceSize</key>
+			<string>{211, 233}</string>
+		</dict>
+		<key>bs02mvd0019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1063, 467}, {209, 232}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 232}}</string>
+			<key>sourceSize</key>
+			<string>{209, 232}</string>
+		</dict>
+		<key>bs02mvd0020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 702}, {207, 232}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {207, 232}}</string>
+			<key>sourceSize</key>
+			<string>{207, 232}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bs02at0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{562, 420}, {102, 112}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 112}}</string>
+			<key>sourceSize</key>
+			<string>{102, 112}</string>
+		</dict>
+		<key>bs02at0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{750, 304}, {116, 112}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {116, 112}}</string>
+			<key>sourceSize</key>
+			<string>{116, 112}</string>
+		</dict>
+		<key>bs02at0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{255, 304}, {126, 113}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {126, 113}}</string>
+			<key>sourceSize</key>
+			<string>{126, 113}</string>
+		</dict>
+		<key>bs02at0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{867, 304}, {114, 115}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {114, 115}}</string>
+			<key>sourceSize</key>
+			<string>{114, 115}</string>
+		</dict>
+		<key>bs02at0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 420}, {100, 133}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 133}}</string>
+			<key>sourceSize</key>
+			<string>{100, 133}</string>
+		</dict>
+		<key>bs02at0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{508, 304}, {123, 106}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {123, 106}}</string>
+			<key>sourceSize</key>
+			<string>{123, 106}</string>
+		</dict>
+		<key>bs02at0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{144, 1}, {142, 89}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 89}}</string>
+			<key>sourceSize</key>
+			<string>{142, 89}</string>
+		</dict>
+		<key>bs02at0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{287, 1}, {142, 89}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 89}}</string>
+			<key>sourceSize</key>
+			<string>{142, 89}</string>
+		</dict>
+		<key>bs02at0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 1}, {141, 89}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {141, 89}}</string>
+			<key>sourceSize</key>
+			<string>{141, 89}</string>
+		</dict>
+		<key>bs02at0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{714, 1}, {134, 95}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 95}}</string>
+			<key>sourceSize</key>
+			<string>{134, 95}</string>
+		</dict>
+		<key>bs02at0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 304}, {126, 101}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {126, 101}}</string>
+			<key>sourceSize</key>
+			<string>{126, 101}</string>
+		</dict>
+		<key>bs02at0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{632, 304}, {117, 105}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 105}}</string>
+			<key>sourceSize</key>
+			<string>{117, 105}</string>
+		</dict>
+		<key>bs02at0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{453, 420}, {108, 109}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 109}}</string>
+			<key>sourceSize</key>
+			<string>{108, 109}</string>
+		</dict>
+		<key>bs02dd0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 420}, {112, 112}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 112}}</string>
+			<key>sourceSize</key>
+			<string>{112, 112}</string>
+		</dict>
+		<key>bs02dd0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{114, 420}, {112, 108}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 108}}</string>
+			<key>sourceSize</key>
+			<string>{112, 108}</string>
+		</dict>
+		<key>bs02dd0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{227, 420}, {112, 104}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 104}}</string>
+			<key>sourceSize</key>
+			<string>{112, 104}</string>
+		</dict>
+		<key>bs02dd0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{340, 420}, {112, 100}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 100}}</string>
+			<key>sourceSize</key>
+			<string>{112, 100}</string>
+		</dict>
+		<key>bs02dd0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{537, 111}, {133, 97}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 97}}</string>
+			<key>sourceSize</key>
+			<string>{133, 97}</string>
+		</dict>
+		<key>bs02dd0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 111}, {133, 95}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 95}}</string>
+			<key>sourceSize</key>
+			<string>{133, 95}</string>
+		</dict>
+		<key>bs02dd0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{403, 209}, {133, 93}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 93}}</string>
+			<key>sourceSize</key>
+			<string>{133, 93}</string>
+		</dict>
+		<key>bs02dd0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{805, 111}, {133, 91}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 91}}</string>
+			<key>sourceSize</key>
+			<string>{133, 91}</string>
+		</dict>
+		<key>bs02dd0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{849, 1}, {133, 90}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 90}}</string>
+			<key>sourceSize</key>
+			<string>{133, 90}</string>
+		</dict>
+		<key>bs02dd0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{135, 111}, {133, 88}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 88}}</string>
+			<key>sourceSize</key>
+			<string>{133, 88}</string>
+		</dict>
+		<key>bs02dd0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{135, 209}, {133, 86}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 86}}</string>
+			<key>sourceSize</key>
+			<string>{133, 86}</string>
+		</dict>
+		<key>bs02dd0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 209}, {133, 84}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 84}}</string>
+			<key>sourceSize</key>
+			<string>{133, 84}</string>
+		</dict>
+		<key>bs02dd0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 209}, {133, 82}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 82}}</string>
+			<key>sourceSize</key>
+			<string>{133, 82}</string>
+		</dict>
+		<key>bs02dd0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 111}, {133, 87}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 87}}</string>
+			<key>sourceSize</key>
+			<string>{133, 87}</string>
+		</dict>
+		<key>bs02dd0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{403, 111}, {133, 94}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 94}}</string>
+			<key>sourceSize</key>
+			<string>{133, 94}</string>
+		</dict>
+		<key>bs02dd0016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{537, 209}, {133, 94}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 94}}</string>
+			<key>sourceSize</key>
+			<string>{133, 94}</string>
+		</dict>
+		<key>bs02dd0017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{805, 209}, {133, 94}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 94}}</string>
+			<key>sourceSize</key>
+			<string>{133, 94}</string>
+		</dict>
+		<key>bs02dd0018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{671, 209}, {133, 94}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 94}}</string>
+			<key>sourceSize</key>
+			<string>{133, 94}</string>
+		</dict>
+		<key>bs02dd0019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{671, 111}, {133, 97}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 97}}</string>
+			<key>sourceSize</key>
+			<string>{133, 97}</string>
+		</dict>
+		<key>bs02dd0020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {142, 109}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 109}}</string>
+			<key>sourceSize</key>
+			<string>{142, 109}</string>
+		</dict>
+		<key>bs02dd0021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{572, 1}, {141, 109}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {141, 109}}</string>
+			<key>sourceSize</key>
+			<string>{141, 109}</string>
+		</dict>
+		<key>bs02dd0022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{382, 304}, {125, 90}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {125, 90}}</string>
+			<key>sourceSize</key>
+			<string>{125, 90}</string>
+		</dict>
+		<key>bs02dd0023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{128, 304}, {126, 80}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {126, 80}}</string>
+			<key>sourceSize</key>
+			<string>{126, 80}</string>
+		</dict>
+		<key>bs02dd0024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{766, 420}, {52, 66}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 66}}</string>
+			<key>sourceSize</key>
+			<string>{52, 66}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

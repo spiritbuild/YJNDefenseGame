@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ttat0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 130}, {48, 42}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 42}}</string>
+			<key>sourceSize</key>
+			<string>{48, 42}</string>
+		</dict>
+		<key>ttat0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{284, 1}, {85, 75}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 75}}</string>
+			<key>sourceSize</key>
+			<string>{85, 75}</string>
+		</dict>
+		<key>ttat0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{191, 1}, {92, 75}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {92, 75}}</string>
+			<key>sourceSize</key>
+			<string>{92, 75}</string>
+		</dict>
+		<key>ttat0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {95, 115}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 115}}</string>
+			<key>sourceSize</key>
+			<string>{95, 115}</string>
+		</dict>
+		<key>ttat0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{97, 1}, {93, 128}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {93, 128}}</string>
+			<key>sourceSize</key>
+			<string>{93, 128}</string>
+		</dict>
+		<key>ttat0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{370, 1}, {81, 112}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {81, 112}}</string>
+			<key>sourceSize</key>
+			<string>{81, 112}</string>
+		</dict>
+		<key>ttat0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 130}, {73, 95}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {73, 95}}</string>
+			<key>sourceSize</key>
+			<string>{73, 95}</string>
+		</dict>
+		<key>ttat0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{75, 130}, {64, 71}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 71}}</string>
+			<key>sourceSize</key>
+			<string>{64, 71}</string>
+		</dict>
+		<key>ttat0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{140, 130}, {58, 63}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {58, 63}}</string>
+			<key>sourceSize</key>
+			<string>{58, 63}</string>
+		</dict>
+		<key>ttat0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{248, 130}, {12, 14}}</string>
+			<key>offset</key>
+			<string>{0, 2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {12, 14}}</string>
+			<key>sourceSize</key>
+			<string>{12, 19}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

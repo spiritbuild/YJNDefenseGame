@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>sj10001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{173, 63}, {26, 27}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 27}}</string>
+			<key>sourceSize</key>
+			<string>{26, 27}</string>
+		</dict>
+		<key>sj10002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 63}, {34, 34}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {34, 34}}</string>
+			<key>sourceSize</key>
+			<string>{34, 34}</string>
+		</dict>
+		<key>sj10003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{97, 63}, {40, 41}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 41}}</string>
+			<key>sourceSize</key>
+			<string>{40, 41}</string>
+		</dict>
+		<key>sj10004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{172, 1}, {52, 52}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 52}}</string>
+			<key>sourceSize</key>
+			<string>{52, 52}</string>
+		</dict>
+		<key>sj10005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {61, 61}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 61}}</string>
+			<key>sourceSize</key>
+			<string>{61, 61}</string>
+		</dict>
+		<key>sj10006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 1}, {55, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {55, 55}}</string>
+			<key>sourceSize</key>
+			<string>{55, 55}</string>
+		</dict>
+		<key>sj10007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{119, 1}, {52, 52}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 52}}</string>
+			<key>sourceSize</key>
+			<string>{52, 52}</string>
+		</dict>
+		<key>sj10008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 63}, {50, 50}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 50}}</string>
+			<key>sourceSize</key>
+			<string>{50, 50}</string>
+		</dict>
+		<key>sj10009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{52, 63}, {44, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 44}}</string>
+			<key>sourceSize</key>
+			<string>{44, 44}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+	</dict>
+</dict>
+</plist>

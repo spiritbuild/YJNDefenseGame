@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mt010001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{161, 121}, {71, 89}}</string>
+			<key>offset</key>
+			<string>{-0.5, -15}</string>
+			<key>sourceColorRect</key>
+			<string>{{10, 30}, {71, 89}}</string>
+			<key>sourceSize</key>
+			<string>{92, 119}</string>
+		</dict>
+		<key>mt010002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 121}, {82, 114}}</string>
+			<key>offset</key>
+			<string>{0, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{5, 5}, {82, 114}}</string>
+			<key>sourceSize</key>
+			<string>{92, 119}</string>
+		</dict>
+		<key>mt010003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {92, 119}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {92, 119}}</string>
+			<key>sourceSize</key>
+			<string>{92, 119}</string>
+		</dict>
+		<key>mt010004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{94, 1}, {86, 115}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {86, 115}}</string>
+			<key>sourceSize</key>
+			<string>{92, 119}</string>
+		</dict>
+		<key>mt010005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 121}, {76, 111}}</string>
+			<key>offset</key>
+			<string>{1, -4}</string>
+			<key>sourceColorRect</key>
+			<string>{{9, 8}, {76, 111}}</string>
+			<key>sourceSize</key>
+			<string>{92, 119}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+	</dict>
+</dict>
+</plist>

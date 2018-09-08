@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Items</key>
+	<dict>
+		<key>Item0</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Call out the two soldiers to help defend.By upgrading, soldiers become stronger and more numbers.</string>
+			<key>id</key>
+			<integer>0</integer>
+			<key>picName</key>
+			<string>jN001.png</string>
+			<key>position</key>
+			<string>{85,230}</string>
+		</dict>
+		<key>Item1</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Call out numerous fireballs, cause area damage on the enemy. By upgrading, increase the attack power and duration.</string>
+			<key>id</key>
+			<integer>1</integer>
+			<key>picName</key>
+			<string>jN002.png</string>
+			<key>position</key>
+			<string>{85,170}</string>
+		</dict>
+		<key>Item2</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Call out the lightning, cause damage on the one enemy. By upgrading, increase the attack power .</string>
+			<key>id</key>
+			<integer>2</integer>
+			<key>picName</key>
+			<string>jN003.png</string>
+			<key>position</key>
+			<string>{85,110}</string>
+		</dict>
+		<key>Item3</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Call a falling rock, causing damage to the one enemy and make enemy dizzy. By upgrading, increase the attack power and dizzy time.</string>
+			<key>id</key>
+			<integer>3</integer>
+			<key>picName</key>
+			<string>jN004.png</string>
+			<key>position</key>
+			<string>{85,50}</string>
+		</dict>
+		<key>Item4</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Archer Tower.Attack speed, single injury, attack power is weak.By upgrading, increase the attack, and attack speed.</string>
+			<key>id</key>
+			<integer>4</integer>
+			<key>picName</key>
+			<string>fY001.png</string>
+			<key>position</key>
+			<string>{170,230}</string>
+		</dict>
+		<key>Item5</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Defense barrier. It can be automatically sent troops for the attack against the enemy.</string>
+			<key>id</key>
+			<integer>5</integer>
+			<key>picName</key>
+			<string>fY002.png</string>
+			<key>position</key>
+			<string>{170,170}</string>
+		</dict>
+		<key>Item6</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Cannon. With a strong attack power, and area of destruction. But slow attack.</string>
+			<key>id</key>
+			<integer>6</integer>
+			<key>picName</key>
+			<string>fY003.png</string>
+			<key>position</key>
+			<string>{170,110}</string>
+		</dict>
+		<key>Item7</key>
+		<dict>
+			<key>Explain</key>
+			<string>EXPLAIN:                                                   Minaret. Very strong attack, normal attack speed, but can only attack a single enemy</string>
+			<key>id</key>
+			<integer>7</integer>
+			<key>picName</key>
+			<string>fY004.png</string>
+			<key>position</key>
+			<string>{170,50}</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ft02at0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{29, 20}, {27, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 16}}</string>
+			<key>sourceSize</key>
+			<string>{27, 16}</string>
+		</dict>
+		<key>ft02at0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 39}, {25, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 16}}</string>
+			<key>sourceSize</key>
+			<string>{25, 16}</string>
+		</dict>
+		<key>ft02at0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{161, 39}, {24, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 16}}</string>
+			<key>sourceSize</key>
+			<string>{24, 16}</string>
+		</dict>
+		<key>ft02at0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{135, 39}, {25, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 17}}</string>
+			<key>sourceSize</key>
+			<string>{25, 17}</string>
+		</dict>
+		<key>ft02at0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{57, 20}, {27, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 18}}</string>
+			<key>sourceSize</key>
+			<string>{27, 18}</string>
+		</dict>
+		<key>ft02at0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{148, 1}, {27, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 17}}</string>
+			<key>sourceSize</key>
+			<string>{27, 17}</string>
+		</dict>
+		<key>ft02at0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{176, 1}, {27, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 17}}</string>
+			<key>sourceSize</key>
+			<string>{27, 17}</string>
+		</dict>
+		<key>ft02dd0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{85, 20}, {27, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 16}}</string>
+			<key>sourceSize</key>
+			<string>{27, 16}</string>
+		</dict>
+		<key>ft02dd0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{55, 39}, {26, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>sourceSize</key>
+			<string>{26, 17}</string>
+		</dict>
+		<key>ft02dd0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {30, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 18}}</string>
+			<key>sourceSize</key>
+			<string>{30, 18}</string>
+		</dict>
+		<key>ft02dd0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{61, 1}, {28, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 18}}</string>
+			<key>sourceSize</key>
+			<string>{28, 18}</string>
+		</dict>
+		<key>ft02dd0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{119, 1}, {28, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 18}}</string>
+			<key>sourceSize</key>
+			<string>{28, 18}</string>
+		</dict>
+		<key>ft02dd0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 1}, {28, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 16}}</string>
+			<key>sourceSize</key>
+			<string>{28, 16}</string>
+		</dict>
+		<key>ft02dd0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{204, 1}, {27, 14}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 14}}</string>
+			<key>sourceSize</key>
+			<string>{27, 14}</string>
+		</dict>
+		<key>ft02dd0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{32, 1}, {28, 13}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 13}}</string>
+			<key>sourceSize</key>
+			<string>{28, 13}</string>
+		</dict>
+		<key>ft02mvc0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{113, 20}, {26, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 18}}</string>
+			<key>sourceSize</key>
+			<string>{26, 18}</string>
+		</dict>
+		<key>ft02mvc0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{167, 20}, {26, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>sourceSize</key>
+			<string>{26, 17}</string>
+		</dict>
+		<key>ft02mvc0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 20}, {26, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 16}}</string>
+			<key>sourceSize</key>
+			<string>{26, 16}</string>
+		</dict>
+		<key>ft02mvc0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{140, 20}, {26, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 16}}</string>
+			<key>sourceSize</key>
+			<string>{26, 16}</string>
+		</dict>
+		<key>ft02mvc0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{82, 39}, {26, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 16}}</string>
+			<key>sourceSize</key>
+			<string>{26, 16}</string>
+		</dict>
+		<key>ft02mvc0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{28, 39}, {26, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 16}}</string>
+			<key>sourceSize</key>
+			<string>{26, 16}</string>
+		</dict>
+		<key>ft02mvc0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 39}, {26, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 16}}</string>
+			<key>sourceSize</key>
+			<string>{26, 16}</string>
+		</dict>
+		<key>ft02mvc0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 20}, {27, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 17}}</string>
+			<key>sourceSize</key>
+			<string>{27, 17}</string>
+		</dict>
+		<key>ft02mvc0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{194, 20}, {26, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 16}}</string>
+			<key>sourceSize</key>
+			<string>{26, 16}</string>
+		</dict>
+		<key>ft02mvd0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 57}, {20, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 16}}</string>
+			<key>sourceSize</key>
+			<string>{20, 16}</string>
+		</dict>
+		<key>ft02mvd0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{207, 39}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvd0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{43, 57}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvd0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{22, 57}, {20, 18}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 18}}</string>
+			<key>sourceSize</key>
+			<string>{20, 18}</string>
+		</dict>
+		<key>ft02mvd0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{169, 57}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvd0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{228, 39}, {20, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 16}}</string>
+			<key>sourceSize</key>
+			<string>{20, 16}</string>
+		</dict>
+		<key>ft02mvd0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{22, 76}, {20, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 16}}</string>
+			<key>sourceSize</key>
+			<string>{20, 16}</string>
+		</dict>
+		<key>ft02mvd0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 57}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvd0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{43, 76}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvu0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{64, 57}, {20, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 16}}</string>
+			<key>sourceSize</key>
+			<string>{20, 16}</string>
+		</dict>
+		<key>ft02mvu0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 57}, {20, 15}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 15}}</string>
+			<key>sourceSize</key>
+			<string>{20, 15}</string>
+		</dict>
+		<key>ft02mvu0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{127, 57}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvu0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{190, 57}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvu0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{106, 57}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+		<key>ft02mvu0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{186, 39}, {20, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 16}}</string>
+			<key>sourceSize</key>
+			<string>{20, 16}</string>
+		</dict>
+		<key>ft02mvu0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{148, 57}, {20, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 16}}</string>
+			<key>sourceSize</key>
+			<string>{20, 16}</string>
+		</dict>
+		<key>ft02mvu0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 76}, {20, 16}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 16}}</string>
+			<key>sourceSize</key>
+			<string>{20, 16}</string>
+		</dict>
+		<key>ft02mvu0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{85, 57}, {20, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 17}}</string>
+			<key>sourceSize</key>
+			<string>{20, 17}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{256, 128}</string>
+	</dict>
+</dict>
+</plist>

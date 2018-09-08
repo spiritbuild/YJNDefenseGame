@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	045E89C7141E37ED0097B1EE /* GameControllerScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {702, 3055}}";
+			sepNavSelRange = "{240, 0}";
+			sepNavVisRange = "{4184, 363}";
+		};
+	};
+	04B5E3A8142CF0CE00089068 /* GameController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1447, 6942}}";
+			sepNavSelRange = "{10793, 0}";
+			sepNavVisRange = "{11038, 678}";
+		};
+	};
+	04BAEA791413B2E7006FD44B /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1860A4291494B916009D6708 /* chaoswar */;
+		activeTarget = 04BAEA811413B2E7006FD44B /* chaoswar */;
+		codeSenseManager = 1860A4531494B91A009D6708 /* Code sense */;
+		executables = (
+			1860A4291494B916009D6708 /* chaoswar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					524,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352292905;
+			PBXWorkspaceStateSaveDate = 352292905;
+		};
+		perUserProjectItems = {
+			1880916814FF910D0091ACD9 /* PBXTextBookmark */ = 1880916814FF910D0091ACD9 /* PBXTextBookmark */;
+			1880916914FF910D0091ACD9 /* PBXTextBookmark */ = 1880916914FF910D0091ACD9 /* PBXTextBookmark */;
+			1880916A14FF910D0091ACD9 /* PBXTextBookmark */ = 1880916A14FF910D0091ACD9 /* PBXTextBookmark */;
+			1880916B14FF910D0091ACD9 /* PBXTextBookmark */ = 1880916B14FF910D0091ACD9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1860A4521494B91A009D6708 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	04BAEA811413B2E7006FD44B /* chaoswar */ = {
+		activeExec = 0;
+		executables = (
+			1860A4291494B916009D6708 /* chaoswar */,
+		);
+	};
+	04DE3FF8143597E3008F301D /* Pointer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {702, 6643}}";
+			sepNavSelRange = "{111, 0}";
+			sepNavVisRange = "{0, 692}";
+		};
+	};
+	1860A4291494B916009D6708 /* chaoswar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = chaoswar;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1860A4521494B91A009D6708 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1860A4531494B91A009D6708 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1880916814FF910D0091ACD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04B5E3A8142CF0CE00089068 /* GameController.m */;
+		name = "GameController.m: 402";
+		rLen = 0;
+		rLoc = 10793;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 11038;
+	};
+	1880916914FF910D0091ACD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04DE3FF8143597E3008F301D /* Pointer.m */;
+		name = "Pointer.m: 4";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 692;
+		vrLoc = 0;
+	};
+	1880916A14FF910D0091ACD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 045E89C7141E37ED0097B1EE /* GameControllerScene.m */;
+		name = "GameControllerScene.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	1880916B14FF910D0091ACD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 045E89C7141E37ED0097B1EE /* GameControllerScene.m */;
+		name = "GameControllerScene.m: 9";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 4184;
+	};
+}
